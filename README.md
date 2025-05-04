@@ -15,7 +15,7 @@
 
 ---
 
-# 📌 Task List 7 วัน
+# 📌 Task List
 
 ## เตรียมข้อมูล
 - ออกแบบตาราง dataset (ใช้ Excel / Google Sheets / Pandas)
@@ -46,7 +46,7 @@
 - KPI Cards: Saving Rate %, Average Daily Spending
 - Pie Chart: % รายจ่ายตาม Category
 
-## 🗓️ Day 6: Dashboard Building
+## Dashboard Building
 - เอา Chart ทั้งหมดมารวมใน Power BI
 - ออกแบบ Layout สวย ๆ
 - ใส่ filter วันที่ ได้ (optional)
